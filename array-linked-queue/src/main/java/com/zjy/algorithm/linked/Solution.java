@@ -5,7 +5,7 @@ package com.zjy.algorithm.linked;
  * @date: 2020/4/18 17:43
  */
 public class Solution {
-    public boolean hasCycle(ListNode head) {
+    public boolean hasCycle(ListNode head,int pos) {
         if(head==null||head.next==null)return false;
         ListNode former=head,latter=head;
         do{
