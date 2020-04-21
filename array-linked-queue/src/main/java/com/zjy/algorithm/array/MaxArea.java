@@ -1,4 +1,4 @@
-package com.zjy.algorithm;
+package com.zjy.algorithm.array;
 
 /**
  * @author: zhaojianyang
