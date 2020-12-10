@@ -15,7 +15,6 @@ deploy/**/*.jar
 
 # Log file
 *.sysLog
-*.log
 
 # BlueJ files
 *.ctxt
